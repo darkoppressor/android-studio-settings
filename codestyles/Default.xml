@@ -1,7 +1,5 @@
 <code_scheme name="Default" version="173">
-  <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
-  </AndroidXmlCodeStyleSettings>
+  <option name="RIGHT_MARGIN" value="120" />
   <codeStyleSettings language="JAVA">
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
   </codeStyleSettings>
