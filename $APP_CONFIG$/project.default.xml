@@ -2,7 +2,8 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+        <property name="android.sdk.path" value="$USER_HOME$/build-server/android/android-sdk" />
+        <property name="settings.editor.selected.configurable" value="ics" />
       </component>
     </defaultProject>
   </component>
